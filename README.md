@@ -2,9 +2,9 @@
 
 DX11 overlay project. External process, user-mode only, no injection.
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1b3d8026-a410-4e9a-98db-53b5f4265b20" />
+<img width="1280" height="731" alt="image" src="https://github.com/user-attachments/assets/928cbfd3-d414-48d8-96b2-2466b2e85c69" />
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/337a3f3f-1613-40ee-9cfb-4c9618e1eba7" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c1b8783c-9b3c-4380-a59b-d4698822193c" />
 
 
 ## Overview
