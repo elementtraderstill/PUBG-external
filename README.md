@@ -7,6 +7,7 @@ DX11 overlay project. External process, user-mode only, no injection.
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c1b8783c-9b3c-4380-a59b-d4698822193c" />
 
 
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)]()
 ## Overview
 
 A DirectX 11 overlay that attaches to a target process and renders an ImGui
